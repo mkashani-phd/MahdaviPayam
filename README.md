@@ -1,5 +1,5 @@
-# 🛡️ Mahdavi Payam (مهدوی پیام)
-> **Ensuring Message Authenticity with Cryptographic Precision**
+#  <img src="Mahdavi-payam.png" alt="Mahdavi Payam logo" width="60" style="vertical-align: middle;" /> Mahdavi Payam (مهدوی پیام)
+
 
 ---
 
