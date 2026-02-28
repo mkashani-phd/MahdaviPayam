@@ -1,4 +1,4 @@
-#  <img src="Mahdavi-payam.png" alt="Mahdavi Payam logo" width="60" style="vertical-align: middle;" /> Mahdavi Payam (مهدوی پیام)
+#  <img src="img/Mahdavi-payam.png" alt="Mahdavi Payam logo" width="60" style="vertical-align: middle;" /> Mahdavi Payam (مهدوی پیام)
 
 
 ---
@@ -30,6 +30,21 @@
     *   پشتیبانی از **StrongBox** (ماژول امنیت سخت‌افزاری) برای جلوگیری از استخراج کلید.
 3.  **موتور رمزنگاری:**
     *   استفاده از الگوریتم مدرن **Ed25519** (از طریق کتابخانه Google Tink).
+
+
+**راهنمای تأیید QR کد کلید عمومی امضاشده**
+
+برای بررسی صحت این QR کد، لطفاً از **همین اپلیکیشن** استفاده کنید.
+
+1. اپلیکیشن را باز کنید.
+2. وارد بخش **Scan** یا **Verify** شوید.
+3. همین QR کد را اسکن کنید.
+4. نتیجه باید وضعیت **Verified / Valid Signature** را نمایش دهد.
+
+<p align="center">
+  <img src="img/signed_public_key.png" alt="Signed public key QR code" width="200" />
+</p>
+
 
 ---
 </div>
